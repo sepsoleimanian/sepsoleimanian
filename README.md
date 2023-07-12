@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since a few months ago<br>📚 I'm currently learning React.js<br>🎯 Goals: Being a skilled Frontend</p>
+<p align="left">✨ Creating bugs since a few months ago<br>📚 I'm currently learning React.js<br>🎯 Goals: Being a skilled Frontend developer</p>
 
 ###
 
